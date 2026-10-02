@@ -1,0 +1,30 @@
+PORTAFOLIO JUAN PABLO GONZÁLEZ — CÓMO SUBIRLO
+
+Estructura de la carpeta:
+
+  portafolio-jpg/
+  ├── index.html            (la página; se abre con doble clic para probar)
+  ├── LEEME.txt             (este archivo, no hace falta subirlo)
+  └── assets/
+      ├── project02.mp4 / project02.jpg   YouTube Motion & Video Production
+      ├── project03.mp4 / project03.jpg   SaaS Product Promo
+      └── project04.mp4 / project04.jpg   Workflow Systems Animation
+
+El proyecto 01 (la cara interactiva) está hecho en código y no necesita video.
+
+REGLAS
+1. Los nombres deben ser EXACTAMENTE esos, en minúsculas y sin espacios.
+2. Los videos incluidos son clips de 18 a 20 segundos en 1280x720 y sin audio.
+   Puedes reemplazarlos por versiones de más calidad con el MISMO nombre:
+   MP4 (H.264), sin audio, 1280x720 o 1920x1080, de 5 a 10 MB cada uno.
+3. Las portadas (.jpg) son un fotograma del video, de unos 960 px de ancho.
+
+CÓMO PUBLICAR
+- Sube la carpeta COMPLETA (index.html + assets) a tu hosting, en la carpeta raíz
+  del sitio. index.html debe quedar en la raíz.
+- Opciones gratuitas si no tienes hosting: Netlify (arrastrar la carpeta en
+  app.netlify.com/drop), Cloudflare Pages o GitHub Pages.
+
+QUÉ EDITAR
+- Textos, correo, enlaces y fichas: abre index.html con un editor de texto
+  (Bloc de notas, VS Code) y busca el texto que quieres cambiar.
